@@ -21,3 +21,10 @@ projected them back.
 "the waterworks" showed in the emerging technologies exhibition at SIGGRAPH
 2001. today i release the code into the public domain, in the hopes that it
 might be of historic interest to someone.
+
+
+## links
+
+- [SIGGRAPH 2001 emerging technologies — the waterworks](http://web.archive.org/web/20150919174444/http://www.siggraph.org/s2001/conference/etech/waterworks.html) (a chair's prerogative exhibit)
+- [original release on sourceforge](http://waterworks.sourceforge.net)
+- [original project page, archived](http://web.archive.org/web/20241014081057/https://www.qarl.com/menu/waterworks/)
