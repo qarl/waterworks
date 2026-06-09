@@ -1,0 +1,18 @@
+#!/bin/csh
+
+set orig=$argv[1];
+set dest=$argv[2];
+
+set origU=`echo $orig | tr a-z A-Z`
+set destU=`echo $dest | tr a-z A-Z`
+
+
+foreach fileorig (*$orig*.cpp *$orig*.h)
+
+set filedest=`echo $fileorig | sed -e s/$orig/$dest/g`
+
+sed -e s/$orig/$dest/g -e s/$origU/$destU/g < $fileorig > $filedest
+
+
+end
+
