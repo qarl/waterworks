@@ -4,10 +4,10 @@
 
 vintage software - source code for the waterworks from 2001.
 
-a long time ago i taught a graphics lab course at washington university,
-built around student-chosen final projects. two of them caught my eye: one
-student rendered convincing water droplets, another simulated drifting sand.
-neither was water - but i could see that, fused, they'd make flowing,
+a long time ago i taught a graphics lab course at Washington University,
+built around student-chosen final projects. two of them caught my eye: Harry
+Cheung rendered convincing water droplets, and Kevin Goodier simulated falling
+sand. neither was water - but i could see that, fused, they'd make flowing,
 interactive water.
 
 so i built that: a life-size virtual shower you could step into, see yourself
